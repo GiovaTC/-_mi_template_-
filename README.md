@@ -1,6 +1,7 @@
 # -_mi_template_- :.
 # Template Frontend Responsive:
 
+<img width="2553" height="1045" alt="image" src="https://github.com/user-attachments/assets/a5e83c5a-b286-4dac-b871-d9dd9ec45614" />    
 
 ```
 ## HTML + CSS + Visual Studio Code + Live Server
